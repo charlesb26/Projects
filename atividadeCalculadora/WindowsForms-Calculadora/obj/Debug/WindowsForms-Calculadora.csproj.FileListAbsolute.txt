@@ -1,0 +1,10 @@
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\bin\Debug\WindowsForms-Calculadora.exe.config
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\bin\Debug\WindowsForms-Calculadora.exe
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\bin\Debug\WindowsForms-Calculadora.pdb
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\obj\Debug\WindowsForms-Calculadora.csprojAssemblyReference.cache
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\obj\Debug\WindowsForms_Calculadora.Form1.resources
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\obj\Debug\WindowsForms_Calculadora.Properties.Resources.resources
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\obj\Debug\WindowsForms-Calculadora.csproj.GenerateResource.cache
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\obj\Debug\WindowsForms-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\obj\Debug\WindowsForms-Calculadora.exe
+C:\Users\charl\Desktop\faculdade\5 semestre\Programação Comercial\atividadeCalculadora\WindowsForms-Calculadora\obj\Debug\WindowsForms-Calculadora.pdb
